@@ -1,0 +1,76 @@
+{
+  "main": {
+    "id": "1233e3e373fef0b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "90280659d6eccc25",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d0c48334b339cbf",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c0f7391458fa3ee5",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "b2f1e3daf9e20060",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "bcab64523283e492",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0ee4860b4687265c",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "90280659d6eccc25",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Meeting_notes/MeetingNotes-210730.md",
+    "Meeting_notes/MeetingNotes-211001.md"
+  ]
+}
